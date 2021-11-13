@@ -1,2 +1,3 @@
-# weld-detector
-Weld detector
+# Weld Detector
+
+Python, open cv
